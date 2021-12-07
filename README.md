@@ -1,8 +1,4 @@
 # Hi, I’m Nuttawan!
-> An illustrator who interested in programming, so here it is! <br>
-me as an junior learning in Information System and Network Engineering faculty <br>
-p.s. this my pennaname btw 'OhiUii'
-
 💞️ I’m looking to collaborate on Front-end, UI design, IT, Network, Illustration <br>
 📫 Nuttawan_wet@cmu.ac.th
 
