@@ -3,6 +3,10 @@
 📫 Nuttawan_wet@cmu.ac.th
 
 ## I'm Currently...
+<b> learning on </b>
+- React
+- Chromium base extension dev.
+
 <b> working on project (WIP) </b>
 - NFT(Foundation) http://foundation.app/@OhiUii
 - css decoration on Toyhouse https://toyhou.se/FukumiOhi
