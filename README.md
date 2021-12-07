@@ -1,6 +1,6 @@
 # Hi, I’m Nuttawan!
 💞️ I’m looking to collaborate on Front-end, UI design, IT, Network, Illustration <br>
-📫 Nuttawan_wet@cmu.ac.th
+📫 nuttawan_wet@cmu.ac.th
 
 | I'm Currently... | my list |
 | --- | --- |
