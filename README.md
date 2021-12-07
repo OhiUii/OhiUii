@@ -5,7 +5,7 @@
 | I'm Currently... | my list |
 | --- | --- |
 | <b> learning on </b> | - React <br> - Chromium base extension dev. |
-| <b> working on project (WIP) </b> | - NFT(Foundation) http://foundation.app/@OhiUii <br> - css decoration on Toyhouse https://toyhou.se/FukumiOhi <br> - Chromium base extension 'อุ้ย' or 'v6hp'  |
+| <b> working on project (WIP) </b> | - decorate my portfolio on https://lynkfire.com/OhiUii <br> - NFT(Foundation) http://foundation.app/@OhiUii <br> - css decoration on Toyhouse https://toyhou.se/FukumiOhi <br> - Chromium base extension 'อุ้ย' or 'v6hp'  |
 | <b> involved on website </b> | - https://artfight.net/~OhiUii?fbclid=IwAR2hFwRwc0Tub4IZiPdTZe20YoU4L00g5V2dve2Grul4UBvDIiRuSWh7c6M <br> - https://ohiuii.carrd.co/ |
  
 
